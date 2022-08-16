@@ -11,3 +11,18 @@
 <br><br><br>
 </FONT>
 </div>
+
+
+---
+
+Para la correcta elaboracion de este taller es necesario contar con las siguientes herramientas;
+
+1. Instalacion de ubuntu
+https://ubuntu.com/download/desktop
+
+2. Ejecutar los siguientes comandos en terminar
+$sudo apt-get update
+$sudo apt-get install gcc
+$sudo apt-get instal make
+
+3. Ya puede compilar y ejecutar los archivos
