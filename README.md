@@ -21,8 +21,11 @@ Para la correcta elaboracion de este taller es necesario contar con las siguient
 https://ubuntu.com/download/desktop
 
 2. Ejecutar los siguientes comandos en terminar
+<br>
 $sudo apt-get update
+<br>
 $sudo apt-get install gcc
+<br>
 $sudo apt-get instal make
 
 3. Ya puede compilar y ejecutar los archivos
